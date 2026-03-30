@@ -1,0 +1,26 @@
+{
+  "name": "samsid",
+  "version": "1.0.0",
+  "description": "Premium dark aesthetic assets for code artists.",
+  "main": "setup.js",
+  "scripts": {
+    "postinstall": "node setup.js"
+  },
+  "files": [
+    "setup.js",
+    "images/**/*",
+    "README.md"
+  ],
+  "keywords": [
+    "aesthetic",
+    "dark",
+    "ui",
+    "assets",
+    "samg",
+    "images",
+    "wallpaper",
+    "dark-theme"
+  ],
+  "author": "Samay Samrat",
+  "license": "MIT"
+}
