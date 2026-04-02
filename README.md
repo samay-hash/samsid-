@@ -1,4 +1,4 @@
-# 🖤 samg-aesthetic
+# 🖤 samsid
 
 > Premium dark aesthetic assets for code artists.
 
@@ -23,7 +23,7 @@ your-project/
 
 ## How It Works
 
-When you run `npm install samg-aesthetic`, a `postinstall` script automatically copies all the curated aesthetic images into your project's `public/samg-aesthetic/` directory.
+When you run `npm install samsid`, a `postinstall` script automatically copies all the curated aesthetic images into your project's `public/samg-aesthetic/` directory.
 
 No extra setup needed. Just install and use.
 
