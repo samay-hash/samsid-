@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-npm install samg-aesthetic
+npm install samsid
 ```
 
 That's it! After installation, your aesthetic images will automatically appear in:
